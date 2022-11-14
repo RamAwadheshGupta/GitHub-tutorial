@@ -1,7 +1,0 @@
-change master
-
-
-inline check to live updae or not git repository
-
-
-status comman creating short cut alias using git cinfing --global alias.st status
